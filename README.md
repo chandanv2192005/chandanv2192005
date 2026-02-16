@@ -15,8 +15,7 @@
 I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to exploring the nuances of **Network Security**, **AI Integration**, and **System Automation**. My work focuses on building resilient systems and leveraging AI to solve complex security challenges.
 
 - 🎓 Pursuing B.E. in **Cybersecurity**.
-- 🔐 Deeply interested in **Intrusion Detection Systems (IDS)** and **Network Defense**.
-- 🤖 Researching **AI-driven Log Extraction** and **Prompt Engineering**.
+- 🤖 Researching and **Prompt Engineering**.
 - 🐚 Passionate about **Linux** and **Shell Automation**.
 - ⚡ Constantly learning and evolving in the digital frontier.
 
