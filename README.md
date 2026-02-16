@@ -10,11 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=chandanv2192005&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Junior+Cyber+Sentinel+%7C+Level+3+Undergrad;while(alive)+%7B+learn(Cyber%2C+Python%2C+Java)%3B+%7D;%F0%9F%9B%A1%EF%B8%8F+Packet+Sniffer+by+Day%2C+Python+Crafter+by+Night;%F0%9F%9A%80+Decrypting+the+future%2C+one+bit+at+a+time." alt="Typing SVG" />
-</p>
-
-
 ### 🛰️ Bio-Signal
 
 I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to exploring the nuances of **Network Security**, **AI Integration**, and **System Automation**. My work focuses on building resilient systems and leveraging AI to solve complex security challenges.
@@ -65,23 +60,6 @@ I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to explor
 #### 🏁 [Prodigy InfoTech Internship](https://github.com/chandanv2192005/Prodigy_InfoTech_Internship)
 > Completed specialized security tasks including Caesar Cipher implementation, Image Encryption tools, and Network Packet Analyzers.
 
-<hr>
-
-### 📊 Tactical Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanv2192005&show_icons=true&theme=tokyonight&border_color=00FF41" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanv2192005&layout=compact&theme=tokyonight&border_color=00FF41" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanv2192005&theme=tokyonight&border_color=00FF41" alt="GitHub Streak" />
-</p>
-
-<hr>
 
 ### 🔗 Establishing Connection
 
