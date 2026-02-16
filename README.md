@@ -14,27 +14,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Junior+Cyber+Sentinel+%7C+Level+3+Undergrad;while(alive)+%7B+learn(Cyber%2C+Python%2C+Java)%3B+%7D;%F0%9F%9B%A1%EF%B8%8F+Packet+Sniffer+by+Day%2C+Python+Crafter+by+Night;%F0%9F%9A%80+Decrypting+the+future%2C+one+bit+at+a+time." alt="Typing SVG" />
 </p>
 
-<hr>
-
-### 👾 Animated Arsenal
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="Python">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" alt="Git">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" alt="GitHub">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" alt="VS Code">
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60" alt="Apple">
-</p>
-
-<hr>
 
 ### 🛰️ Bio-Signal
 
 I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to exploring the nuances of **Network Security**, **AI Integration**, and **System Automation**. My work focuses on building resilient systems and leveraging AI to solve complex security challenges.
 
 - 🎓 Pursuing B.E. in **Cybersecurity**.
-- 🔐 Deeply interested in **Intrusion Detection Systems (IDS)** and **Network Defense**.
-- 🤖 Researching **AI-driven Log Extraction** and **Prompt Engineering**.
+- 🤖 Researching and **Prompt Engineering**.
 - 🐚 Passionate about **Linux** and **Shell Automation**.
 - ⚡ Constantly learning and evolving in the digital frontier.
 
