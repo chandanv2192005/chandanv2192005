@@ -61,21 +61,7 @@ I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to explor
 
 <hr>
 
-### 📊 Tactical Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanv2192005&show_icons=true&theme=tokyonight&border_color=00FF41" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanv2192005&layout=compact&theme=tokyonight&border_color=00FF41" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanv2192005&theme=tokyonight&border_color=00FF41" alt="GitHub Streak" />
-</p>
-
-<hr>
 
 ### 🔗 Establishing Connection
 
