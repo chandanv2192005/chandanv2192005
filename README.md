@@ -3,10 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanv2192005&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 
 
 ### 🛰️ Bio-Signal
