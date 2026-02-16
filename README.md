@@ -11,8 +11,7 @@ I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to explor
 
 - 🎓 Pursuing B.E. in **Cybersecurity**.
 - 🏢 [Internship in Prodigy InfoTech](https://github.com/chandanv2192005/Prodigy_InfoTech_Internship.git)
-- 🔐 Deeply interested in **Intrusion Detection Systems (IDS)** and **Network Defense**.
-- 🤖 Researching **AI-driven Log Extraction** and **Prompt Engineering**.
+- 🤖 Researching **Prompt Engineering**.
 - 🐚 Passionate about **Linux** and **Shell Automation**.
 - ⚡ Constantly learning and evolving in the digital frontier.
 
