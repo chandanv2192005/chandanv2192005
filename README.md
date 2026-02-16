@@ -25,7 +25,7 @@ I am a **Bachelor of Engineering student in Cybersecurity**, dedicated to explor
 
 <h4 align="left">Languages & Scripting</h4>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
