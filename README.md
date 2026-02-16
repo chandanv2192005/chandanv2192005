@@ -4,17 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=3rd%20year%20cybersecurity%20student&fontSize=40&animation=fadeIn&fontColor=000000" alt="Header" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=learning%20python%20networking%20and%20java&fontSize=20&fontColor=00FF41" alt="Sub-Header" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanv2192005&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Junior+Cyber+Sentinel+%7C+Level+3+Undergrad;while(alive)+%7B+learn(Cyber%2C+Python%2C+Java)%3B+%7D;%F0%9F%9B%A1%EF%B8%8F+Packet+Sniffer+by+Day%2C+Python+Crafter+by+Night;%F0%9F%9A%80+Decrypting+the+future%2C+one+bit+at+a+time." alt="Typing SVG" />
-</p>
 
 <hr>
 
