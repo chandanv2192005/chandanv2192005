@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=3rd%20year%20cybersecurity%20student&fontSize=40&animation=fadeIn&fontColor=000000" alt="Header" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=learning%20python%20networking%20and%20java&fontSize=20&fontColor=00FF41" alt="Sub-Header" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandanv2192005&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
