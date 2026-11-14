@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm V Chandan</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=3rd%20year%20cybersecurity%20student&fontSize=40&animation=fadeIn&fontColor=000000" alt="Header" />
+  <img src="image_0.png" alt="4th Year Cybersecurity Student Banner" width="100%" />
 </p>
+
 
 
 ### 🛰️ Bio-Signal
